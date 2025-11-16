@@ -18,6 +18,6 @@ The MobileNetV2 model and its pretrained weights are used in this model.
 
 ## Results
 The dataset is split into train, test and validation set. The validation set is not involved in the fine-tuning of the model.
-- The model takes around 5 minutes to train
+- The model takes around 5 minutes to train (on GPU)
 - The results on the validation set: a loss of ~0.2 and accuracy of ~0.94.
 - The low loss value indicates the model is confident on the result.
